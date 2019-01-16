@@ -1,6 +1,6 @@
-# xmi
+# mobile mall
 
-> 仿写小米手机商城
+> 在线手机商城
 
 ## Build Setup
 
